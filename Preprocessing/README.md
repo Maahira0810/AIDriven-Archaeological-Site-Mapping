@@ -126,6 +126,3 @@ Planned upgrades:
 This preprocessing pipeline standardizes and enhances two visually different datasets — soil textures and vegetation — into high-quality, model-ready inputs suitable for deep learning workflows.
 
 ---
-
-Just let me know!
-
